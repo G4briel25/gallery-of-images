@@ -6,7 +6,7 @@ const Page = () => {
   return (
     <>
       <Base/>
-      <p className="text-center text-white text-sm">Criado por Gabriel</p>
+      <p className="text-center text-white text-sm">Criado por Gabriel Jaune</p>
     </>
   );
 };
